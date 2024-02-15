@@ -23,7 +23,6 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb198702509519061</string>
 			</array>
 		</dict>
 	</array>
@@ -32,11 +31,8 @@
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<string>TRUE</string>
 	<key>FacebookAppID</key>
-	<string>198702509519061</string>
 	<key>FacebookClientToken</key>
-	<string>e03313bd1504f7503ffcba20ab72c970</string>
 	<key>FacebookDisplayName</key>
-	<string>EpicBass</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
