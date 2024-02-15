@@ -2,33 +2,5 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>56591840018-t4n49fk9hmkghe90fidnesphbpfcc1us.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.56591840018-t4n49fk9hmkghe90fidnesphbpfcc1us</string>
-	<key>API_KEY</key>
-	<string>AIzaSyBna3G8WippdIYk3AEKsX_fK0VcrJw-ras</string>
-	<key>GCM_SENDER_ID</key>
-	<string>56591840018</string>
-	<key>PLIST_VERSION</key>
-	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>com.BigBarBananza</string>
-	<key>PROJECT_ID</key>
-	<string>bigbarbananza</string>
-	<key>STORAGE_BUCKET</key>
-	<string>bigbarbananza.appspot.com</string>
-	<key>IS_ADS_ENABLED</key>
-	<false></false>
-	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
-	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
-	<key>IS_GCM_ENABLED</key>
-	<true></true>
-	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:56591840018:ios:5d03e1973996897b5bb9cb</string>
 </dict>
 </plist>
